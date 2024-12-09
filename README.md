@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me:
 <p align="center">
-  <img src="https://img.icons8.com/color/96/F5F5DC/student-center.png" alt="student icon" width="50" height="50" />
+  <img src="https://img.icons8.com/color/96/F5F5DC/student-center.png" alt="student icon" width="50" height="50" class="moving-icon"/>
 </p>
 
 - 🖥️ **First-year student at USW studying Computer Science.**  
@@ -28,7 +28,7 @@
 
 ### 🎯 Career Goals:
 <p align="center">
-  <img src="https://img.icons8.com/color/96/F5F5DC/goal.png" alt="goal icon" width="50" height="50" />
+  <img src="https://img.icons8.com/color/96/F5F5DC/goal.png" alt="goal icon" width="50" height="50" class="moving-icon"/>
 </p>
 
 - 💼 Enhance expertise in **frontend development** and contribute to meaningful projects.  
@@ -39,24 +39,22 @@
 
 ### 🛠️ My Skills:
 <p align="center">
-  <!-- Row of icons -->
-  <img src="https://img.icons8.com/fluency/48/F5F5DC/html-5.png" alt="HTML" width="40" height="40" />
-  <img src="https://img.icons8.com/fluency/48/F5F5DC/css3.png" alt="CSS" width="40" height="40" />
-  <img src="https://img.icons8.com/fluency/48/F5F5DC/javascript.png" alt="JavaScript" width="40" height="40" />
-  <img src="https://img.icons8.com/fluency/48/F5F5DC/react.png" alt="React" width="40" height="40" />
-  <img src="https://img.icons8.com/fluency/48/F5F5DC/python.png" alt="Python" width="40" height="40" />
-  <img src="https://img.icons8.com/fluency/48/F5F5DC/c-plus-plus-logo.png" alt="C++" width="40" height="40" />
+  <!-- Row of icons with hover effect -->
+  <img class="skill-icon moving-icon" src="https://img.icons8.com/fluency/48/F5F5DC/html-5.png" alt="HTML" width="40" height="40" />
+  <img class="skill-icon moving-icon" src="https://img.icons8.com/fluency/48/F5F5DC/css3.png" alt="CSS" width="40" height="40" />
+  <img class="skill-icon moving-icon" src="https://img.icons8.com/fluency/48/F5F5DC/javascript.png" alt="JavaScript" width="40" height="40" />
+  <img class="skill-icon moving-icon" src="https://img.icons8.com/fluency/48/F5F5DC/python.png" alt="Python" width="40" height="40" />
+  <img class="skill-icon moving-icon" src="https://img.icons8.com/fluency/48/F5F5DC/c-plus-plus-logo.png" alt="C++" width="40" height="40" />
 </p>
 
 - Experienced in **HTML, CSS, and JavaScript** for building responsive web designs.  
 - Proficient in **React** and **Python** for creating dynamic web and backend solutions.  
-- Familiar with **C++** and problem-solving through competitive programming.  
 
 ---
 
 ### 📜 Certifications & Achievements:
 <p align="center">
-  <img src="https://img.icons8.com/fluency/96/F5F5DC/certificate.png" alt="certificate icon" width="50" height="50" />
+  <img src="https://img.icons8.com/fluency/96/F5F5DC/certificate.png" alt="certificate icon" width="50" height="50" class="moving-icon"/>
 </p>
 
 - **Certified in Frontend Development** (FreeCodeCamp).  
@@ -66,6 +64,22 @@
 
 ---
 
+### 🏅 My Hobbies:
+
+- ⚽ Passionate about **Football**.  
+- 🏊‍♂️ Enjoys **Swimming** for fitness.  
+- ✈️ Loves **Travelling** and exploring new cultures.  
+
+---
+
+### 🌟 My Dream:
+- 💻 Build revolutionary **AI-powered web applications**.  
+- 🌍 Travel the world while working as a **remote software engineer**.  
+- 🚀 Contribute to meaningful **tech innovations** that change lives.
+
+---
+
+
 ### 📈 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=badur2213&show_icons=true&theme=radical" alt="GitHub stats" width="400" />
@@ -73,5 +87,3 @@
 </p>
 
 ---
-
-</div>
