@@ -65,7 +65,6 @@
 ---
 
 ### 🏅 My Hobbies:
-
 - ⚽ Passionate about **Football**.  
 - 🏊‍♂️ Enjoys **Swimming** for fitness.  
 - ✈️ Loves **Travelling** and exploring new cultures.  
@@ -79,7 +78,6 @@
 
 ---
 
-
 ### 📈 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=badur2213&show_icons=true&theme=radical" alt="GitHub stats" width="400" />
@@ -87,3 +85,21 @@
 </p>
 
 ---
+
+### 📞 Contact Me:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/F5F5DC/linkedin.png" alt="LinkedIn" width="40" height="40" class="moving-icon" />
+  </a>
+  <a href="https://github.com/your-github-profile" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/F5F5DC/github.png" alt="GitHub" width="40" height="40" class="moving-icon" />
+  </a>
+  <a href="https://twitter.com/your-twitter-profile" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/F5F5DC/twitter.png" alt="Twitter" width="40" height="40" class="moving-icon" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.icons8.com/fluency/48/F5F5DC/email.png" alt="Email" width="40" height="40" class="moving-icon" />
+  </a>
+</p
+ 
