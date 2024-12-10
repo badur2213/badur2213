@@ -18,11 +18,13 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm5tenNzY2ZjbXg0bHBrdWtqYm9kcHR5Z3NuenF4MGNwamhkZHk2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/60q1K6mTzQQ1suxNfm/giphy.gif" alt="new gif 2" width="150" height="150" />
 </phttps://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm5tenNzY2ZjbXg0bHBrdWtqYm9kcHR5Z3NuenF4MGNwamhkZHk2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/60q1K6mTzQQ1suxNfm/giphy.gif
 
+
 ---
+
 
 ### 👨‍💻 About Me:
 <p align="center">
-  <img src="https://img.icons8.com/color/96/F5F5DC/student-center.png" alt="student icon" width="50" height="50" class="moving-icon"/>
+  <img src="https://img.icons8.com/color/96/F5F5DC/student-center.png" alt="student icon" width="70" height="70" class="moving-icon"/>
 </p>
 
 - 🖥 First-year student at USW studying Computer Science.  
