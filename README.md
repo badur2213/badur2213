@@ -1,7 +1,7 @@
 # Welcome to My GitHub
 
 <p align="center">
-  <img src="https://your-image-url.com/your-image.jpg" alt="Badr Mohammed" width="200" height="200" />
+  <img src="Badr.jpg" alt="Badr Mohammed" width="600" height="600" />
 </p>
 
 
