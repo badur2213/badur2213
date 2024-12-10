@@ -1,8 +1,5 @@
 # Welcome to My GitHub
 
-<p align="center">
-  <img src="Badr.jpg" alt="Badr Mohammed" width="600" height="600" />
-</p>
 
 
 <div style="background-color: #00008B; color: #F5F5DC; font-family: Arial, sans-serif; font-size: 18px;">
