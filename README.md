@@ -1,4 +1,10 @@
 # Welcome to My GitHub
+
+<p align="center">
+  <img src="https://your-image-url.com/your-image.jpg" alt="Badr Mohammed" width="200" height="200" />
+</p>
+
+
 <div style="background-color: #00008B; color: #F5F5DC; font-family: Arial, sans-serif; font-size: 18px;">
 
 <h1 align="center" style="color: #F5F5DC; font-size: 36px;">Hi 👋, I'm BADR MOHAMMED</h1>
@@ -58,6 +64,7 @@ Feel free to link to the [University of South Wales official website](https://ww
 - English (Fluent)
 - Arabic (Native)
 - Malay (Intermediate)
+  
   ---
 
   ## 🤔 Fun Facts:
@@ -74,6 +81,7 @@ Feel free to link to the [University of South Wales official website](https://ww
 
 - Q: What’s your advice for someone starting in web development?  
   A: Start with the basics, build small projects, and don’t be afraid to ask for help.
+  
   ---
   ## 🧩 Fun Facts about My Code:
 - I once spent 4 hours debugging a single comma in JavaScript that caused my entire project to crash.
@@ -94,6 +102,19 @@ Feel free to link to the [University of South Wales official website](https://ww
 - 🖥 -> 🌱 -> 🌐 -> 🔧 -> 💻 -> 🤖 -> 💡
 - ---
 
+### 📜 Certifications & Achievements:
+<p align="center">
+  <img src="https://img.icons8.com/fluency/96/F5F5DC/certificate.png" alt="certificate icon" width="50" height="50" class="moving-icon"/>
+</p>
+
+- Certified in Frontend Development (FreeCodeCamp).  
+- Completed Cloud Computing Fundamentals (AWS).  
+- 🏆 Awarded "Best Idea" at a Hackathon.  
+- 📜 Achieved Google Digital Garage Certificate in Digital Marketing.  
+
+
+---
+
 ### 🛠 My Skills:
 <p align="center">
   <!-- Row of icons with hover effect -->
@@ -106,18 +127,6 @@ Feel free to link to the [University of South Wales official website](https://ww
 
 - Experienced in HTML, CSS, and JavaScript for building responsive web designs.  
 - Proficient in React and Python for creating dynamic web and backend solutions.  
-
----
-
-### 📜 Certifications & Achievements:
-<p align="center">
-  <img src="https://img.icons8.com/fluency/96/F5F5DC/certificate.png" alt="certificate icon" width="50" height="50" class="moving-icon"/>
-</p>
-
-- Certified in Frontend Development (FreeCodeCamp).  
-- Completed Cloud Computing Fundamentals (AWS).  
-- 🏆 Awarded "Best Idea" at a Hackathon.  
-- 📜 Achieved Google Digital Garage Certificate in Digital Marketing.  
 
 ---
 
@@ -134,8 +143,10 @@ Feel free to link to the [University of South Wales official website](https://ww
 - 🚀 Contribute to meaningful tech innovations that change lives.
 
 ---
+
 ## 🌍 GitHub Contributions Map:
 ![Your Contributions](https://github-readme-stats.vercel.app/api?username=yourusername&count_private=true&show_icons=true&hide_title=true)
+
 ---
 
 ### 📈 GitHub Stats:
@@ -162,16 +173,16 @@ I appreciate you taking the time to explore my profile! Feel free to reach out i
 ### 📞 Contact Me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/F5F5DC/linkedin.png" alt="LinkedIn" width="40" height="40" class="moving-icon" />
+  <a href="https://www.instagram.com/ba.63.4/" target="_blank">
+    <img src="https://www.talkwalker.com/hubfs/Website/Logos/marketplace/Instagram.png#keepProtocol" alt="LinkedIn" width="60" height="40" class="moving-icon" />
   </a>
   <a href="https://github.com/badur2213" target="_blank">
     <img src="https://img.icons8.com/fluency/48/F5F5DC/github.png" alt="GitHub" width="40" height="40" class="moving-icon" />
   </a>
-  <a href="https://twitter.com/your-twitter-profile" target="_blank">
+  <a href="https://twitter.com/badur2213" target="_blank">
     <img src="https://img.icons8.com/fluency/48/F5F5DC/twitter.png" alt="Twitter" width="40" height="40" class="moving-icon" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:badur1595@gmail.com">
     <img src="https://img.icons8.com/fluency/48/F5F5DC/email.png" alt="Email" width="40" height="40" class="moving-icon" />
   </a>
 </p
